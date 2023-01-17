@@ -1,7 +1,7 @@
 {
   "name": "proxypool",
   "description": "自用",
-  "website": "https://pool.gamepp.ml/",
+  "website": ,
   "repository": "https://github.com/oooopera/proxypool",
   "success_url": "/",
   "logo": "https://raw.githubusercontent.com/oooopera/proxypool/heroku/assets/proxy.jpg",
