@@ -2,7 +2,7 @@ package api
 
 import (
 	binhtml "github.com/oooopera/proxypool/internal/bindata/html"
-	"github.com/lanhebe/proxypool/log"
+	"github.com/oooopera/proxypool/log"
 	"html/template"
 	"net/http"
 	"os"
